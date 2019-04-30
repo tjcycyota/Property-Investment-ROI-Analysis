@@ -23,7 +23,7 @@ For requests with filters that return less than 100 results, the UI display plot
 ![Investment Tool Small](images/InvestmentTool_Small.png)
 
 ## Final Poster
-![Investment Tool Final Poster](images/InvestmentTool_FinalPoster.png)
+![Investment Tool Final Poster](images/InvestmentTool_FinalPoster.jpg)
 
 ## Collaboration
 This project was completed as a group of very talented data scientists and computer scientists:
